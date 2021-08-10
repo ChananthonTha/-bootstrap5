@@ -7,11 +7,15 @@
     height: 50px;
     margin: 10px;
     border: 10px solid orangered;
+    padding: 80px;
+    box-sizing: content-box;
 }
 
-.box2 {
+.box2{
     width: 250px;
     height: 50px;
     margin: 10px;
     border: 10px solid cyan;
+    padding: 80px;
+    box-sizing: content-box;
 }
